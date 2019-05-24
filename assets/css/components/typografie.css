@@ -1,0 +1,36 @@
+body {
+    font-family: x;
+}
+
+h1 {
+    color: white;
+    font-family: var(--josefin);
+    font-size: 3rem;
+    text-shadow: 3px 3px 1px var(--shadow-gray-alpha);
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 1.8rem;
+    line-height: 1.3rem;
+    font-family: var(--lobster);
+    color: var(--purple-dark);
+}
+
+.normaltext {
+    font-family: var(--josefin);
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+a {
+    color: var(--light-gray);
+    text-decoration: underline;
+    font-family: var(--josefin);
+    font-size: 1rem;
+    line-height: 1.3rem;
+}
+
+a:hover {
+    color: var(--dark);
+}
