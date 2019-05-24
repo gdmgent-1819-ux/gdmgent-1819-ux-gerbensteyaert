@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700|Lobster');
+
+/* kleuren */
+:root {
+    --purple-normal: hsla(265, 53%, 55%, 1); 
+    --purple-dark: #40206c;
+    --dark: rgb(39, 36, 40);
+    --light-gray: rgb(172, 172, 172);
+    --shadow-gray: rgba(222,222,222,1);
+    --shadow-gray-alpha: rgba(222, 222, 222, 0.16);
+}
+
+/* lettertypes */
+:root {
+    --lobster: 'Lobster', cursive;
+    --josefin: 'Josefin Sans', sans-serif;
+}
